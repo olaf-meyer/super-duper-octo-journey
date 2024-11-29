@@ -6,6 +6,4 @@ metadata:
 spec:
   type: url
   targets:
-    - templates/spring-boot-basic/template.yaml
-    - templates/spring-boot-basic-on-kubernetes/template.yaml
     - templates/spring-boot-basic-on-openshift/template.yaml
